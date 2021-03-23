@@ -1,8 +1,12 @@
+  /*
+  Developed by Karen Lorhana
+  */
+
 int colunas[16] = {0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, A0, A1};   
 int filas[4] = {A5, A4, A3, A2};
 
-int randFila;     //Variable para fila aleatoria
-int randColuna;  //Variable para columna aleatoria
+int randFila;     
+int randColuna;  
    
 void setup(){
 int contador1;
